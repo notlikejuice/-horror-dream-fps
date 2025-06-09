@@ -1,0 +1,3 @@
+commands:
+  build: godot --headless --build-solutions
+  play: godot -e src/world/dream_room.tscn
